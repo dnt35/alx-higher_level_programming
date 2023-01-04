@@ -1,2 +1,3 @@
 #!/bin/bash/python3
-$PYCODE = "we are here" print(num)
+python3 -c "$PYCODE"
+
