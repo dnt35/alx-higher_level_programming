@@ -1,3 +1,2 @@
-num = "we are here"
-print(num)
-$PYCODE
+#!/bin/bash
+num = "we are here" print(num) $PYCODE
