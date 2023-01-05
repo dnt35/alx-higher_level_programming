@@ -1,2 +1,2 @@
 #!/bin/bash
-num = (input) $PYCODE
+print('now we are free')$PYCODE
