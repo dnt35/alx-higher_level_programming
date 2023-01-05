@@ -1,3 +1,3 @@
 #!/bin/bash
-$PYCODE = '14'
-print ($PYCODE)
+name = input('What is your name')
+print('name')
