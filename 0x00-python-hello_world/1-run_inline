@@ -1,2 +1,2 @@
 #!/bin/bash
-char print('now we are free')$PYCODE
+char int(v) = "14" $PYCODE
