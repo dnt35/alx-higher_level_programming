@@ -1,2 +1,2 @@
 #!/bin/bash
-char int(v) = "14" $PYCODE
+$PYCODE = char int(v) = "14"
